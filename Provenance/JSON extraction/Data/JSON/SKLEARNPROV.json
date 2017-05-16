@@ -1,0 +1,909 @@
+{
+  "prefix": {
+    "result": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2Fjakevdp%2Fsklearn_tutorial.git&serialization=PROV-JSON#",
+    "fullResult": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2Fjakevdp%2Fsklearn_tutorial.git&serialization=PROV-JSON#"
+  },
+  "bundle": {
+    "result:provenance": {
+      "entity": {
+        "result:file-notebooks-images-data-layout-png": {
+          "prov:label": "notebooks/images/data-layout.png"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb": {
+          "prov:label": "notebooks/01-Preliminaries.ipynb"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb": {
+          "prov:label": "notebooks/02.1-Machine-Learning-Intro.ipynb"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb": {
+          "prov:label": "notebooks/02.2-Basic-Principles.ipynb"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb": {
+          "prov:label": "notebooks/03.1-Classification-SVMs.ipynb"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb": {
+          "prov:label": "notebooks/03.2-Regression-Forests.ipynb"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb": {
+          "prov:label": "notebooks/04.1-Dimensionality-PCA.ipynb"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb": {
+          "prov:label": "notebooks/04.2-Clustering-KMeans.ipynb"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb": {
+          "prov:label": "notebooks/04.3-Density-GMM.ipynb"
+        },
+        "result:file-notebooks-05-Validation-ipynb": {
+          "prov:label": "notebooks/05-Validation.ipynb"
+        },
+        "result:file-notebooks-Index-ipynb": {
+          "prov:label": "notebooks/Index.ipynb"
+        },
+        "result:file-notebooks-URL-ipynb": {
+          "prov:label": "notebooks/URL.ipynb"
+        },
+        "result:file-notebooks-fig_code-ML_flow_chart-py": {
+          "prov:label": "notebooks/fig_code/ML_flow_chart.py"
+        },
+        "result:file-notebooks-fig_code-__init__-py": {
+          "prov:label": "notebooks/fig_code/__init__.py"
+        },
+        "result:file-notebooks-fig_code-data-py": {
+          "prov:label": "notebooks/fig_code/data.py"
+        },
+        "result:file-notebooks-fig_code-figures-py": {
+          "prov:label": "notebooks/fig_code/figures.py"
+        },
+        "result:file-notebooks-fig_code-helpers-py": {
+          "prov:label": "notebooks/fig_code/helpers.py"
+        },
+        "result:file-notebooks-fig_code-linear_regression-py": {
+          "prov:label": "notebooks/fig_code/linear_regression.py"
+        },
+        "result:file-notebooks-fig_code-sgd_separator-py": {
+          "prov:label": "notebooks/fig_code/sgd_separator.py"
+        },
+        "result:file-notebooks-fig_code-svm_gui-py": {
+          "prov:label": "notebooks/fig_code/svm_gui.py"
+        },
+        "result:file-notebooks-images-iris_setosa-jpg": {
+          "prov:label": "notebooks/images/iris_setosa.jpg"
+        },
+        "result:file-notebooks-images-iris_versicolor-jpg": {
+          "prov:label": "notebooks/images/iris_versicolor.jpg"
+        },
+        "result:file-notebooks-images-iris_virginica-jpg": {
+          "prov:label": "notebooks/images/iris_virginica.jpg"
+        },
+        "result:file--gitignore": {
+          "prov:label": ".gitignore"
+        },
+        "result:file-LICENSE": {
+          "prov:label": "LICENSE"
+        },
+        "result:file-README-md": {
+          "prov:label": "README.md"
+        },
+        "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4": {},
+        "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4": {},
+        "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4": {},
+        "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d": {},
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {},
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {},
+        "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d": {}
+      },
+      "agent": {
+        "result:user-Jake-VanderPlas": {
+          "prov:label": "Jake VanderPlas"
+        },
+        "result:user-Jake-Vanderplas": {
+          "prov:label": "Jake Vanderplas"
+        }
+      },
+      "activity": {
+        "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978": {
+          "prov:label": "initial commit of tutorial materials"
+        },
+        "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4": {
+          "prov:label": "Initial commit"
+        },
+        "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6": {
+          "prov:label": "update all notebooks"
+        },
+        "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d": {
+          "prov:label": "Add data layout visualization"
+        }
+      },
+      "wasStartedBy": {
+        "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_start": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_start": {
+          "prov:activity": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:23:32.000Z"
+        },
+        "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_start": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d_start": {
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:time": "2016-11-21T19:07:01.000Z"
+        }
+      },
+      "wasEndedBy": {
+        "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_end": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_end": {
+          "prov:activity": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:23:32.000Z"
+        },
+        "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_end": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d_end": {
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:time": "2016-11-21T19:07:01.000Z"
+        }
+      },
+      "wasAttributedTo": {
+        "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_user-Jake-Vanderplas_attr": {
+          "prov:entity": "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:agent": "result:user-Jake-Vanderplas",
+          "prov:type": "authorship"
+        },
+        "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_user-Jake-Vanderplas_attr": {
+          "prov:entity": "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:agent": "result:user-Jake-Vanderplas",
+          "prov:type": "authorship"
+        },
+        "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_user-Jake-Vanderplas_attr": {
+          "prov:entity": "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:agent": "result:user-Jake-Vanderplas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        },
+        "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_user-Jake-VanderPlas_attr": {
+          "prov:entity": "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:type": "authorship"
+        }
+      },
+      "wasAssociatedWith": {
+        "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_user-Jake-VanderPlas_assoc": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:role": "author, committer"
+        },
+        "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_user-Jake-Vanderplas_assoc": {
+          "prov:activity": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:agent": "result:user-Jake-Vanderplas",
+          "prov:role": "author, committer"
+        },
+        "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_user-Jake-VanderPlas_assoc": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:role": "author, committer"
+        },
+        "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d_user-Jake-VanderPlas_assoc": {
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:agent": "result:user-Jake-VanderPlas",
+          "prov:role": "author, committer"
+        }
+      },
+      "wasInformedBy": {
+        "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_3badfb6fe3222222c79ed5c037c2fe3e925a51a4_comm": {
+          "prov:informant": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:informed": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_comm": {
+          "prov:informant": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:informed": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d_786424b261b1c8ad52aec05f16592a2be0fac5e6_comm": {
+          "prov:informant": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:informed": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d"
+        }
+      },
+      "specializationOf": {
+        "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4"
+        },
+        "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_spec": {
+          "prov:generalEntity": "result:file-LICENSE",
+          "prov:specificEntity": "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4"
+        },
+        "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file--gitignore",
+          "prov:specificEntity": "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_spec": {
+          "prov:generalEntity": "result:file--gitignore",
+          "prov:specificEntity": "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4"
+        },
+        "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-images-iris_virginica-jpg",
+          "prov:specificEntity": "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-images-iris_versicolor-jpg",
+          "prov:specificEntity": "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-images-iris_setosa-jpg",
+          "prov:specificEntity": "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-svm_gui-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-sgd_separator-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-linear_regression-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-helpers-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-figures-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-data-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-__init__-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-fig_code-ML_flow_chart-py",
+          "prov:specificEntity": "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-URL-ipynb",
+          "prov:specificEntity": "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-Index-ipynb",
+          "prov:specificEntity": "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-05-Validation-ipynb",
+          "prov:specificEntity": "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-05-Validation-ipynb",
+          "prov:specificEntity": "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-04-3-Density-GMM-ipynb",
+          "prov:specificEntity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-04-3-Density-GMM-ipynb",
+          "prov:specificEntity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb",
+          "prov:specificEntity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb",
+          "prov:specificEntity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb",
+          "prov:specificEntity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb",
+          "prov:specificEntity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-03-2-Regression-Forests-ipynb",
+          "prov:specificEntity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-03-2-Regression-Forests-ipynb",
+          "prov:specificEntity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-03-1-Classification-SVMs-ipynb",
+          "prov:specificEntity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-03-1-Classification-SVMs-ipynb",
+          "prov:specificEntity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-02-2-Basic-Principles-ipynb",
+          "prov:specificEntity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-02-2-Basic-Principles-ipynb",
+          "prov:specificEntity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_spec": {
+          "prov:generalEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb",
+          "prov:specificEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb",
+          "prov:specificEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb",
+          "prov:specificEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_spec": {
+          "prov:generalEntity": "result:file-notebooks-01-Preliminaries-ipynb",
+          "prov:specificEntity": "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_spec": {
+          "prov:generalEntity": "result:file-notebooks-01-Preliminaries-ipynb",
+          "prov:specificEntity": "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978"
+        },
+        "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_spec": {
+          "prov:generalEntity": "result:file-notebooks-images-data-layout-png",
+          "prov:specificEntity": "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d"
+        }
+      },
+      "wasGeneratedBy": {
+        "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:entity": "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_gen": {
+          "prov:entity": "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:activity": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:23:32.000Z"
+        },
+        "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_gen": {
+          "prov:entity": "result:file-LICENSE_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:activity": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:23:32.000Z"
+        },
+        "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:entity": "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_gen": {
+          "prov:entity": "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:activity": "result:commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:23:32.000Z"
+        },
+        "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-images-iris_virginica-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-images-iris_versicolor-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-images-iris_setosa-jpg_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-svm_gui-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-sgd_separator-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-linear_regression-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-helpers-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-figures-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-data-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-__init__-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-fig_code-ML_flow_chart-py_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-URL-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-Index-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_gen": {
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:time": "2016-11-21T19:07:01.000Z"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen": {
+          "prov:entity": "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_gen": {
+          "prov:entity": "result:file-notebooks-images-data-layout-png_commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:time": "2016-11-21T19:07:01.000Z"
+        }
+      },
+      "used": {
+        "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_use": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:entity": "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_use": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:entity": "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:time": "2015-09-08T17:33:20.000Z"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_use": {
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:time": "2016-11-21T19:07:01.000Z"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:entity": "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:time": "2016-03-29T14:46:34.000Z"
+        }
+      },
+      "wasDerivedFrom": {
+        "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_3badfb6fe3222222c79ed5c037c2fe3e925a51a4_der": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generatedEntity": "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:usedEntity": "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:generation": "result:file-README-md_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen",
+          "prov:usage": "result:file-README-md_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_use"
+        },
+        "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_3badfb6fe3222222c79ed5c037c2fe3e925a51a4_der": {
+          "prov:activity": "result:commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generatedEntity": "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:usedEntity": "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4",
+          "prov:generation": "result:file--gitignore_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_gen",
+          "prov:usage": "result:file--gitignore_commit-3badfb6fe3222222c79ed5c037c2fe3e925a51a4_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_use"
+        },
+        "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-05-Validation-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-05-Validation-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-04-3-Density-GMM-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-04-2-Clustering-KMeans-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-04-1-Dimensionality-PCA-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-03-2-Regression-Forests-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-03-1-Classification-SVMs-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-02-2-Basic-Principles-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_786424b261b1c8ad52aec05f16592a2be0fac5e6_der": {
+          "prov:activity": "result:commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:generatedEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d",
+          "prov:usedEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generation": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_gen",
+          "prov:usage": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_commit-1a049aa96d25979194f3a8954895c13b51e7c75d_use"
+        },
+        "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-02-1-Machine-Learning-Intro-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        },
+        "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_der": {
+          "prov:activity": "result:commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:generatedEntity": "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6",
+          "prov:usedEntity": "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978",
+          "prov:generation": "result:file-notebooks-01-Preliminaries-ipynb_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_gen",
+          "prov:usage": "result:file-notebooks-01-Preliminaries-ipynb_commit-288b26ce7ae9d8d09cd6e88cc9239c8e29cbe978_commit-786424b261b1c8ad52aec05f16592a2be0fac5e6_use"
+        }
+      },
+      "wasInvalidatedBy": {}
+    }
+  }
+}

@@ -1,0 +1,2489 @@
+{
+  "prefix": {
+    "result": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2Fcampoy%2Fjsonenums.git&serialization=PROV-JSON#",
+    "fullResult": "http://git2prov.org/git2prov?giturl=https%3A%2F%2Fgithub.com%2Fcampoy%2Fjsonenums.git&serialization=PROV-JSON#"
+  },
+  "bundle": {
+    "result:provenance": {
+      "entity": {
+        "result:file--travis-yml": {
+          "prov:label": ".travis.yml"
+        },
+        "result:file-server-app-yaml": {
+          "prov:label": "server/app.yaml"
+        },
+        "result:file-server-main-go": {
+          "prov:label": "server/main.go"
+        },
+        "result:file-server-server-go": {
+          "prov:label": "server/server.go"
+        },
+        "result:file-server-static-home-html": {
+          "prov:label": "server/static/home.html"
+        },
+        "result:file-parser-parser-go": {
+          "prov:label": "parser/parser.go"
+        },
+        "result:file-example-shirtsize-go": {
+          "prov:label": "example/shirtsize.go"
+        },
+        "result:file-example-shirtsize_jsonenums-go": {
+          "prov:label": "example/shirtsize_jsonenums.go"
+        },
+        "result:file-example-weekday_jsonenums-go": {
+          "prov:label": "example/weekday_jsonenums.go"
+        },
+        "result:file-jsonenums-go": {
+          "prov:label": "jsonenums.go"
+        },
+        "result:file-template-go": {
+          "prov:label": "template.go"
+        },
+        "result:file--gitignore": {
+          "prov:label": ".gitignore"
+        },
+        "result:file-LICENSE": {
+          "prov:label": "LICENSE"
+        },
+        "result:file-README-md": {
+          "prov:label": "README.md"
+        },
+        "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3": {},
+        "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75": {},
+        "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213": {},
+        "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6": {},
+        "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b": {},
+        "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d": {},
+        "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655": {},
+        "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419": {},
+        "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6": {},
+        "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6": {},
+        "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6": {},
+        "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f": {},
+        "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd": {},
+        "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352": {},
+        "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d": {},
+        "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d": {},
+        "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419": {},
+        "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591": {},
+        "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0": {},
+        "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5": {},
+        "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355": {},
+        "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e": {},
+        "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3": {},
+        "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717": {},
+        "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7": {},
+        "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d": {},
+        "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419": {},
+        "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731": {},
+        "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7": {},
+        "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d": {},
+        "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d": {},
+        "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828": {},
+        "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419": {},
+        "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731": {},
+        "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d": {},
+        "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d": {},
+        "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828": {},
+        "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419": {},
+        "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d": {},
+        "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b": {},
+        "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828": {},
+        "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419": {},
+        "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591": {},
+        "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5": {},
+        "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a": {},
+        "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c": {},
+        "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29": {},
+        "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3": {},
+        "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7": {},
+        "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6": {},
+        "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f": {},
+        "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591": {},
+        "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0": {},
+        "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5": {},
+        "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355": {},
+        "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3": {},
+        "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f": {},
+        "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6": {},
+        "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f": {},
+        "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {},
+        "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f": {},
+        "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434": {},
+        "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a": {}
+      },
+      "agent": {
+        "result:user-Daved": {
+          "prov:label": "Daved"
+        },
+        "result:user-Francesc-Campoy": {
+          "prov:label": "Francesc Campoy"
+        },
+        "result:user-Dmitri-Shuralyov": {
+          "prov:label": "Dmitri Shuralyov"
+        },
+        "result:user-Benjamin-Pflanz": {
+          "prov:label": "Benjamin Pflanz"
+        },
+        "result:user-pebers": {
+          "prov:label": "pebers"
+        }
+      },
+      "activity": {
+        "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3": {
+          "prov:label": "Added prefix flag"
+        },
+        "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75": {
+          "prov:label": "Corrected minor typo in second to last paragraph of readme."
+        },
+        "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213": {
+          "prov:label": "Merge pull request #2 from shurcooL/patch-1"
+        },
+        "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6": {
+          "prov:label": "README: Fix formatting by adding missing closing backtick."
+        },
+        "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b": {
+          "prov:label": "Added Google disclaimer"
+        },
+        "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d": {
+          "prov:label": "Update README.md"
+        },
+        "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655": {
+          "prov:label": "corrected case of jsonenums"
+        },
+        "result:commit-66a9dd356f9958c89b83512a07f4964187981419": {
+          "prov:label": "initial commit"
+        },
+        "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6": {
+          "prov:label": "Initial commit"
+        },
+        "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6": {
+          "prov:label": "Uniform licenses all around"
+        },
+        "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f": {
+          "prov:label": "Corrected MarshalJSON and UnmarshalJSON function comments within template per Francesc's guidance."
+        },
+        "result:commit-3699e1253080aadb865de87257758cd742bd54bd": {
+          "prov:label": "Added MarshalJSON and UnmarshalJSON comments to template to prevent golint from complaining."
+        },
+        "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352": {
+          "prov:label": "Improved generated code by defining map outside of function."
+        },
+        "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d": {
+          "prov:label": "support of decoding for Stringers"
+        },
+        "result:commit-a673e223843b8a04285a854579b25aa99cc7370d": {
+          "prov:label": "improved the generated code by using maps and using existing String method if available"
+        },
+        "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591": {
+          "prov:label": "Use idiomatic error messaging and variable naming"
+        },
+        "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0": {
+          "prov:label": "Correct imports and variable naming."
+        },
+        "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5": {
+          "prov:label": "Use static parsing instead of requiring a binary."
+        },
+        "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355": {
+          "prov:label": "Need to update these paths too."
+        },
+        "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e": {
+          "prov:label": "Merge pull request #8 from neurodrone/master"
+        },
+        "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717": {
+          "prov:label": "Corrected minor typo in last paragraph of package main comment."
+        },
+        "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7": {
+          "prov:label": "moving the parser to a reusable package"
+        },
+        "result:commit-a77ef8d8e573450f09553e1fb382214d39121731": {
+          "prov:label": "Updated generated code in example"
+        },
+        "result:commit-10933b856e570af2c6482962d71e516dcad12828": {
+          "prov:label": "added demo file"
+        },
+        "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b": {
+          "prov:label": "Move the go:generate comments one line up to avoid documenting the type"
+        },
+        "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a": {
+          "prov:label": "Need to pass an explicit importer"
+        },
+        "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c": {
+          "prov:label": "Update imports to use builtin versions of packages from 1.5 since relevant bits of x/tools have gone away (see https://groups.google.com/forum/#!topic/golang-announce/qu_rAphYdxY)."
+        },
+        "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29": {
+          "prov:label": "Update imports to use builtin versions of packages from 1.5 since relevant bits of x/tools have gone away (see https://groups.google.com/forum/#!topic/golang-announce/qu_rAphYdxY)."
+        },
+        "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6": {
+          "prov:label": "added license comments"
+        },
+        "result:commit-40291a96ddf68d766283850ff11def5823640f7f": {
+          "prov:label": "Adding server for code generation"
+        },
+        "result:commit-2016be4569b422c8027a085395aad8ac5a72b434": {
+          "prov:label": "check something"
+        },
+        "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a": {
+          "prov:label": "add travis"
+        }
+      },
+      "wasStartedBy": {
+        "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3_start": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75_start": {
+          "prov:activity": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:time": "2015-04-07T03:38:10.000Z"
+        },
+        "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213_start": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:time": "2015-02-02T16:05:44.000Z"
+        },
+        "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6_start": {
+          "prov:activity": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:time": "2015-02-01T17:34:53.000Z"
+        },
+        "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_start": {
+          "prov:activity": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:time": "2015-02-01T15:05:25.000Z"
+        },
+        "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d_start": {
+          "prov:activity": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:time": "2015-02-01T08:37:31.000Z"
+        },
+        "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655_start": {
+          "prov:activity": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:time": "2015-01-31T11:23:24.000Z"
+        },
+        "result:commit-66a9dd356f9958c89b83512a07f4964187981419_start": {
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_start": {
+          "prov:activity": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:time": "2015-01-28T23:18:46.000Z"
+        },
+        "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_start": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_start": {
+          "prov:activity": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:time": "2015-04-23T20:35:24.000Z"
+        },
+        "result:commit-3699e1253080aadb865de87257758cd742bd54bd_start": {
+          "prov:activity": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:30:11.000Z"
+        },
+        "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_start": {
+          "prov:activity": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:time": "2015-02-04T13:38:28.000Z"
+        },
+        "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d_start": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:commit-a673e223843b8a04285a854579b25aa99cc7370d_start": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591_start": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_start": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-03T22:50:41.000Z"
+        },
+        "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5_start": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_start": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:time": "2016-04-08T10:33:16.000Z"
+        },
+        "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_start": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:time": "2015-07-15T17:29:57.000Z"
+        },
+        "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_start": {
+          "prov:activity": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:time": "2015-04-07T03:56:34.000Z"
+        },
+        "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_start": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:commit-a77ef8d8e573450f09553e1fb382214d39121731_start": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:time": "2015-02-04T13:40:08.000Z"
+        },
+        "result:commit-10933b856e570af2c6482962d71e516dcad12828_start": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b_start": {
+          "prov:activity": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:time": "2015-01-31T09:21:59.000Z"
+        },
+        "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a_start": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:time": "2016-04-08T10:41:22.000Z"
+        },
+        "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c_start": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:time": "2016-04-08T10:24:33.000Z"
+        },
+        "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29_start": {
+          "prov:activity": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:time": "2016-04-08T10:24:33.000Z"
+        },
+        "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6_start": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:time": "2015-02-04T13:44:42.000Z"
+        },
+        "result:commit-40291a96ddf68d766283850ff11def5823640f7f_start": {
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:30:07.000Z"
+        },
+        "result:commit-2016be4569b422c8027a085395aad8ac5a72b434_start": {
+          "prov:activity": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:time": "2017-05-04T18:55:46.000Z"
+        },
+        "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_start": {
+          "prov:activity": "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:time": "2017-05-04T18:50:47.000Z"
+        }
+      },
+      "wasEndedBy": {
+        "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3_end": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75_end": {
+          "prov:activity": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:time": "2015-04-23T16:24:46.000Z"
+        },
+        "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213_end": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:time": "2015-02-02T16:05:44.000Z"
+        },
+        "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6_end": {
+          "prov:activity": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:time": "2015-02-01T17:34:53.000Z"
+        },
+        "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_end": {
+          "prov:activity": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:time": "2015-02-01T15:05:25.000Z"
+        },
+        "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d_end": {
+          "prov:activity": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:time": "2015-02-01T08:37:31.000Z"
+        },
+        "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655_end": {
+          "prov:activity": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:time": "2015-01-31T11:23:24.000Z"
+        },
+        "result:commit-66a9dd356f9958c89b83512a07f4964187981419_end": {
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_end": {
+          "prov:activity": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:time": "2015-01-28T23:18:46.000Z"
+        },
+        "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_end": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_end": {
+          "prov:activity": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:time": "2015-04-23T20:35:24.000Z"
+        },
+        "result:commit-3699e1253080aadb865de87257758cd742bd54bd_end": {
+          "prov:activity": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:30:11.000Z"
+        },
+        "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_end": {
+          "prov:activity": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:time": "2015-02-04T13:38:28.000Z"
+        },
+        "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d_end": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:commit-a673e223843b8a04285a854579b25aa99cc7370d_end": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591_end": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_end": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-03T22:50:41.000Z"
+        },
+        "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5_end": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-04-22T01:31:47.000Z"
+        },
+        "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_end": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:time": "2016-04-21T13:25:22.000Z"
+        },
+        "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_end": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:time": "2015-07-15T17:29:57.000Z"
+        },
+        "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_end": {
+          "prov:activity": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:time": "2015-04-23T16:24:46.000Z"
+        },
+        "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_end": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:commit-a77ef8d8e573450f09553e1fb382214d39121731_end": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:time": "2015-02-04T13:40:08.000Z"
+        },
+        "result:commit-10933b856e570af2c6482962d71e516dcad12828_end": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b_end": {
+          "prov:activity": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:time": "2015-01-31T09:21:59.000Z"
+        },
+        "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a_end": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:time": "2016-04-21T13:25:22.000Z"
+        },
+        "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c_end": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:time": "2016-04-21T13:25:11.000Z"
+        },
+        "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29_end": {
+          "prov:activity": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:time": "2016-04-08T10:49:33.000Z"
+        },
+        "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6_end": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:time": "2015-02-04T13:44:42.000Z"
+        },
+        "result:commit-40291a96ddf68d766283850ff11def5823640f7f_end": {
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:30:07.000Z"
+        },
+        "result:commit-2016be4569b422c8027a085395aad8ac5a72b434_end": {
+          "prov:activity": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:time": "2017-05-04T18:55:46.000Z"
+        },
+        "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_end": {
+          "prov:activity": "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:time": "2017-05-04T18:50:47.000Z"
+        }
+      },
+      "wasAttributedTo": {
+        "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_user-Daved_attr": {
+          "prov:entity": "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75_user-Daved_attr": {
+          "prov:entity": "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_user-Dmitri-Shuralyov_attr": {
+          "prov:entity": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:agent": "result:user-Dmitri-Shuralyov",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_user-Daved_attr": {
+          "prov:entity": "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd_user-Daved_attr": {
+          "prov:entity": "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_user-pebers_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:agent": "result:user-pebers",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_user-Daved_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_user-Daved_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_user-pebers_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:agent": "result:user-pebers",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_user-pebers_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:agent": "result:user-pebers",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29_user-pebers_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:agent": "result:user-pebers",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_user-Daved_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_user-Benjamin-Pflanz_attr": {
+          "prov:entity": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_user-pebers_attr": {
+          "prov:entity": "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:agent": "result:user-pebers",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_user-Daved_attr": {
+          "prov:entity": "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:agent": "result:user-Daved",
+          "prov:type": "authorship"
+        },
+        "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        },
+        "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_user-Francesc-Campoy_attr": {
+          "prov:entity": "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:type": "authorship"
+        }
+      },
+      "wasAssociatedWith": {
+        "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3_user-Daved_assoc": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:agent": "result:user-Daved",
+          "prov:role": "author, committer"
+        },
+        "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75_user-Daved_assoc": {
+          "prov:activity": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:agent": "result:user-Daved",
+          "prov:role": "author, committer"
+        },
+        "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6_user-Dmitri-Shuralyov_assoc": {
+          "prov:activity": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:agent": "result:user-Dmitri-Shuralyov",
+          "prov:role": "author, committer"
+        },
+        "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-66a9dd356f9958c89b83512a07f4964187981419_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_user-Daved_assoc": {
+          "prov:activity": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:agent": "result:user-Daved",
+          "prov:role": "author, committer"
+        },
+        "result:commit-3699e1253080aadb865de87257758cd742bd54bd_user-Daved_assoc": {
+          "prov:activity": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:agent": "result:user-Daved",
+          "prov:role": "author, committer"
+        },
+        "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-a673e223843b8a04285a854579b25aa99cc7370d_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591_user-Benjamin-Pflanz_assoc": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:role": "author, committer"
+        },
+        "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_user-Benjamin-Pflanz_assoc": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:role": "author, committer"
+        },
+        "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5_user-Benjamin-Pflanz_assoc": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:role": "author, committer"
+        },
+        "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_user-pebers_assoc": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:agent": "result:user-pebers",
+          "prov:role": "author"
+        },
+        "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_user-Benjamin-Pflanz_assoc": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:role": "committer, committer"
+        },
+        "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_user-Daved_assoc": {
+          "prov:activity": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:agent": "result:user-Daved",
+          "prov:role": "author, committer"
+        },
+        "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-a77ef8d8e573450f09553e1fb382214d39121731_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-10933b856e570af2c6482962d71e516dcad12828_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a_user-pebers_assoc": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:agent": "result:user-pebers",
+          "prov:role": "author"
+        },
+        "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a_user-Benjamin-Pflanz_assoc": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:role": "committer"
+        },
+        "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c_user-pebers_assoc": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:agent": "result:user-pebers",
+          "prov:role": "author"
+        },
+        "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c_user-Benjamin-Pflanz_assoc": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:agent": "result:user-Benjamin-Pflanz",
+          "prov:role": "committer"
+        },
+        "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29_user-pebers_assoc": {
+          "prov:activity": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:agent": "result:user-pebers",
+          "prov:role": "author, committer"
+        },
+        "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-40291a96ddf68d766283850ff11def5823640f7f_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-2016be4569b422c8027a085395aad8ac5a72b434_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        },
+        "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_user-Francesc-Campoy_assoc": {
+          "prov:activity": "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:agent": "result:user-Francesc-Campoy",
+          "prov:role": "author, committer"
+        }
+      },
+      "wasInformedBy": {
+        "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3_3699e1253080aadb865de87257758cd742bd54bd_comm": {
+          "prov:informant": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:informed": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3"
+        },
+        "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75_c80e0662c23bffdb3fe5e2162e893e44c35b21e3_comm": {
+          "prov:informant": "result:commit-c80e0662c23bffdb3fe5e2162e893e44c35b21e3",
+          "prov:informed": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75"
+        },
+        "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213_720371a4aa4b6c580006600539fef8bf8dd2db6d_comm": {
+          "prov:informant": "result:commit-720371a4aa4b6c580006600539fef8bf8dd2db6d",
+          "prov:informed": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213"
+        },
+        "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213_718a04d0a64517ed7704797a1a20afcb22b717e6_comm": {
+          "prov:informant": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:informed": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213"
+        },
+        "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6_ae9812cb50377fd98981ea6c03a86dfae14e899b_comm": {
+          "prov:informant": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:informed": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6"
+        },
+        "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_0ef05ba2c214ef694b429e632cc87446eb283417_comm": {
+          "prov:informant": "result:commit-0ef05ba2c214ef694b429e632cc87446eb283417",
+          "prov:informed": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b"
+        },
+        "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d_90659514af30288ba5e542f7c5c2b6ccf3143655_comm": {
+          "prov:informant": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:informed": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d"
+        },
+        "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655_5cd7ec204a329856ab14137f90a3341622582a7d_comm": {
+          "prov:informant": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:informed": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655"
+        },
+        "result:commit-66a9dd356f9958c89b83512a07f4964187981419_fb5644d04154ec5d96e5b5063142476fadc31ad6_comm": {
+          "prov:informant": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:informed": "result:commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_comm": {
+          "prov:informant": "result:commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:informed": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_c55a706513b8d9c96486d6db7f634a8163348cc3_comm": {
+          "prov:informant": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:informed": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f"
+        },
+        "result:commit-3699e1253080aadb865de87257758cd742bd54bd_a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_comm": {
+          "prov:informant": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:informed": "result:commit-3699e1253080aadb865de87257758cd742bd54bd"
+        },
+        "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_40291a96ddf68d766283850ff11def5823640f7f_comm": {
+          "prov:informant": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:informed": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352"
+        },
+        "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d_a673e223843b8a04285a854579b25aa99cc7370d_comm": {
+          "prov:informant": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:informed": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d"
+        },
+        "result:commit-a673e223843b8a04285a854579b25aa99cc7370d_3da4e90d4393be281cf409bead9aa3860415a87b_comm": {
+          "prov:informant": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:informed": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d"
+        },
+        "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591_b89a8c9df8b6b1172b7d92be099a81b91f0076e0_comm": {
+          "prov:informant": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:informed": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591"
+        },
+        "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_7fbe89f60da342dc2870277795492f310e38b8c5_comm": {
+          "prov:informant": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:informed": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0"
+        },
+        "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5_0c6ac79cc6108a657873380b0a4c903fe811113a_comm": {
+          "prov:informant": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:informed": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5"
+        },
+        "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_bafb4908c30562d21df38501d0dcd40988182a1c_comm": {
+          "prov:informant": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:informed": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355"
+        },
+        "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_c46b65ebad41068addae34524309ea24aad21f95_comm": {
+          "prov:informant": "result:commit-c46b65ebad41068addae34524309ea24aad21f95",
+          "prov:informed": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e"
+        },
+        "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_95e85aea50e3442ec666dadb7c3ee4396aab2b80_comm": {
+          "prov:informant": "result:commit-95e85aea50e3442ec666dadb7c3ee4396aab2b80",
+          "prov:informed": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e"
+        },
+        "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_003b2577f008cb6c255740b7af743e477c8b3d75_comm": {
+          "prov:informant": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:informed": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717"
+        },
+        "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_175ecc603af56f4249f992f6773e6b98ca90c213_comm": {
+          "prov:informant": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:informed": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7"
+        },
+        "result:commit-a77ef8d8e573450f09553e1fb382214d39121731_dfe6af903e8ad07a358e204c7d06ccd5e1eef352_comm": {
+          "prov:informant": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:informed": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731"
+        },
+        "result:commit-10933b856e570af2c6482962d71e516dcad12828_66a9dd356f9958c89b83512a07f4964187981419_comm": {
+          "prov:informant": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:informed": "result:commit-10933b856e570af2c6482962d71e516dcad12828"
+        },
+        "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b_10933b856e570af2c6482962d71e516dcad12828_comm": {
+          "prov:informant": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:informed": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b"
+        },
+        "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a_fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_comm": {
+          "prov:informant": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:informed": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a"
+        },
+        "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c_5bfdb73f884302bca3b3246048d27992ba1c08f3_comm": {
+          "prov:informant": "result:commit-5bfdb73f884302bca3b3246048d27992ba1c08f3",
+          "prov:informed": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c"
+        },
+        "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29_36bac1a5f68bfb45d70d73452985c37f1184b39e_comm": {
+          "prov:informant": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:informed": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29"
+        },
+        "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6_07f271932bee70dfc88de87e1858cfca736cf474_comm": {
+          "prov:informant": "result:commit-07f271932bee70dfc88de87e1858cfca736cf474",
+          "prov:informed": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6"
+        },
+        "result:commit-2016be4569b422c8027a085395aad8ac5a72b434_1508da3e54d30da6232cd6c11f5d37ad270c9c8a_comm": {
+          "prov:informant": "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:informed": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434"
+        }
+      },
+      "specializationOf": {
+        "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3"
+        },
+        "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75"
+        },
+        "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213"
+        },
+        "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6"
+        },
+        "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b"
+        },
+        "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d"
+        },
+        "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655"
+        },
+        "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_spec": {
+          "prov:generalEntity": "result:file-README-md",
+          "prov:specificEntity": "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6"
+        },
+        "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_spec": {
+          "prov:generalEntity": "result:file-LICENSE",
+          "prov:specificEntity": "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6"
+        },
+        "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_spec": {
+          "prov:generalEntity": "result:file--gitignore",
+          "prov:specificEntity": "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6"
+        },
+        "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f"
+        },
+        "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd"
+        },
+        "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352"
+        },
+        "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d"
+        },
+        "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d"
+        },
+        "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419_spec": {
+          "prov:generalEntity": "result:file-template-go",
+          "prov:specificEntity": "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591"
+        },
+        "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0"
+        },
+        "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5"
+        },
+        "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355"
+        },
+        "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e"
+        },
+        "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3"
+        },
+        "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717"
+        },
+        "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7"
+        },
+        "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d"
+        },
+        "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_spec": {
+          "prov:generalEntity": "result:file-jsonenums-go",
+          "prov:specificEntity": "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_spec": {
+          "prov:generalEntity": "result:file-example-weekday_jsonenums-go",
+          "prov:specificEntity": "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_spec": {
+          "prov:generalEntity": "result:file-example-weekday_jsonenums-go",
+          "prov:specificEntity": "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_spec": {
+          "prov:generalEntity": "result:file-example-weekday_jsonenums-go",
+          "prov:specificEntity": "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_spec": {
+          "prov:generalEntity": "result:file-example-weekday_jsonenums-go",
+          "prov:specificEntity": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_spec": {
+          "prov:generalEntity": "result:file-example-weekday_jsonenums-go",
+          "prov:specificEntity": "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_spec": {
+          "prov:generalEntity": "result:file-example-weekday_jsonenums-go",
+          "prov:specificEntity": "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize_jsonenums-go",
+          "prov:specificEntity": "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize_jsonenums-go",
+          "prov:specificEntity": "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize_jsonenums-go",
+          "prov:specificEntity": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize_jsonenums-go",
+          "prov:specificEntity": "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize_jsonenums-go",
+          "prov:specificEntity": "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize-go",
+          "prov:specificEntity": "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize-go",
+          "prov:specificEntity": "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d"
+        },
+        "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize-go",
+          "prov:specificEntity": "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b"
+        },
+        "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize-go",
+          "prov:specificEntity": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828"
+        },
+        "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419_spec": {
+          "prov:generalEntity": "result:file-example-shirtsize-go",
+          "prov:specificEntity": "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419"
+        },
+        "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591"
+        },
+        "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5"
+        },
+        "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a"
+        },
+        "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c"
+        },
+        "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29"
+        },
+        "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3"
+        },
+        "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_spec": {
+          "prov:generalEntity": "result:file-parser-parser-go",
+          "prov:specificEntity": "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7"
+        },
+        "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-server-static-home-html",
+          "prov:specificEntity": "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6_spec": {
+          "prov:generalEntity": "result:file-server-static-home-html",
+          "prov:specificEntity": "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6"
+        },
+        "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f_spec": {
+          "prov:generalEntity": "result:file-server-static-home-html",
+          "prov:specificEntity": "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f"
+        },
+        "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591"
+        },
+        "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0"
+        },
+        "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5"
+        },
+        "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355"
+        },
+        "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3"
+        },
+        "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f_spec": {
+          "prov:generalEntity": "result:file-server-server-go",
+          "prov:specificEntity": "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f"
+        },
+        "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-server-main-go",
+          "prov:specificEntity": "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6_spec": {
+          "prov:generalEntity": "result:file-server-main-go",
+          "prov:specificEntity": "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6"
+        },
+        "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f_spec": {
+          "prov:generalEntity": "result:file-server-main-go",
+          "prov:specificEntity": "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f"
+        },
+        "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_spec": {
+          "prov:generalEntity": "result:file-server-app-yaml",
+          "prov:specificEntity": "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6"
+        },
+        "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f_spec": {
+          "prov:generalEntity": "result:file-server-app-yaml",
+          "prov:specificEntity": "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f"
+        },
+        "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434_spec": {
+          "prov:generalEntity": "result:file--travis-yml",
+          "prov:specificEntity": "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434"
+        },
+        "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_spec": {
+          "prov:generalEntity": "result:file--travis-yml",
+          "prov:specificEntity": "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a"
+        }
+      },
+      "wasGeneratedBy": {
+        "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75_gen": {
+          "prov:activity": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:entity": "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:time": "2015-04-07T03:38:10.000Z"
+        },
+        "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_gen": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:entity": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:time": "2015-02-02T16:05:44.000Z"
+        },
+        "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_gen": {
+          "prov:activity": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:entity": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:time": "2015-02-01T17:34:53.000Z"
+        },
+        "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_gen": {
+          "prov:activity": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:entity": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:time": "2015-02-01T15:05:25.000Z"
+        },
+        "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_gen": {
+          "prov:activity": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:entity": "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:time": "2015-02-01T08:37:31.000Z"
+        },
+        "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_gen": {
+          "prov:activity": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:entity": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:time": "2015-01-31T11:23:24.000Z"
+        },
+        "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419_gen": {
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:entity": "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_gen": {
+          "prov:entity": "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:activity": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:time": "2015-01-28T23:18:46.000Z"
+        },
+        "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_gen": {
+          "prov:entity": "result:file-LICENSE_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:activity": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:time": "2015-01-28T23:18:46.000Z"
+        },
+        "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_gen": {
+          "prov:entity": "result:file--gitignore_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:activity": "result:commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:time": "2015-01-28T23:18:46.000Z"
+        },
+        "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_gen": {
+          "prov:activity": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:entity": "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:time": "2015-04-23T20:35:24.000Z"
+        },
+        "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd_gen": {
+          "prov:activity": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:entity": "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:30:11.000Z"
+        },
+        "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_gen": {
+          "prov:activity": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:entity": "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:time": "2015-02-04T13:38:28.000Z"
+        },
+        "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_gen": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:entity": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419_gen": {
+          "prov:entity": "result:file-template-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_gen": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:entity": "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_gen": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:entity": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-03T22:50:41.000Z"
+        },
+        "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_gen": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:entity": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_gen": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:entity": "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:time": "2016-04-08T10:33:16.000Z"
+        },
+        "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_gen": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:entity": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:time": "2015-07-15T17:29:57.000Z"
+        },
+        "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_gen": {
+          "prov:activity": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:entity": "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:time": "2015-04-07T03:56:34.000Z"
+        },
+        "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_gen": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:entity": "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_gen": {
+          "prov:entity": "result:file-jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_gen": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:time": "2015-02-04T13:40:08.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_gen": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_gen": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_gen": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_gen": {
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_gen": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:time": "2015-02-04T13:40:08.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_gen": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_gen": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_gen": {
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_gen": {
+          "prov:activity": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:entity": "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:time": "2015-01-31T09:21:59.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_gen": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:entity": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419_gen": {
+          "prov:entity": "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_gen": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:entity": "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_gen": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:entity": "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_gen": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:entity": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:time": "2016-04-08T10:41:22.000Z"
+        },
+        "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_gen": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:entity": "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:time": "2016-04-08T10:24:33.000Z"
+        },
+        "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29_gen": {
+          "prov:activity": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:entity": "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:time": "2016-04-08T10:24:33.000Z"
+        },
+        "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_gen": {
+          "prov:entity": "result:file-parser-parser-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6_gen": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:entity": "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:time": "2015-02-04T13:44:42.000Z"
+        },
+        "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f_gen": {
+          "prov:entity": "result:file-server-static-home-html_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:30:07.000Z"
+        },
+        "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_gen": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:entity": "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_gen": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:entity": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-03T22:50:41.000Z"
+        },
+        "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_gen": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:entity": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_gen": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:entity": "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:time": "2016-04-08T10:33:16.000Z"
+        },
+        "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f_gen": {
+          "prov:entity": "result:file-server-server-go_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:30:07.000Z"
+        },
+        "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6_gen": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:entity": "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:time": "2015-02-04T13:44:42.000Z"
+        },
+        "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f_gen": {
+          "prov:entity": "result:file-server-main-go_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:30:07.000Z"
+        },
+        "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f_gen": {
+          "prov:entity": "result:file-server-app-yaml_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:activity": "result:commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:30:07.000Z"
+        },
+        "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434_gen": {
+          "prov:activity": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:entity": "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:time": "2017-05-04T18:55:46.000Z"
+        },
+        "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_gen": {
+          "prov:entity": "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:activity": "result:commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:time": "2017-05-04T18:50:47.000Z"
+        }
+      },
+      "used": {
+        "result:file-README-md_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-README-md_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-README-md_commit-c80e0662c23bffdb3fe5e2162e893e44c35b21e3_commit-003b2577f008cb6c255740b7af743e477c8b3d75_use": {
+          "prov:activity": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:entity": "result:file-README-md_commit-c80e0662c23bffdb3fe5e2162e893e44c35b21e3",
+          "prov:time": "2015-04-07T03:38:10.000Z"
+        },
+        "result:file-README-md_commit-720371a4aa4b6c580006600539fef8bf8dd2db6d_commit-175ecc603af56f4249f992f6773e6b98ca90c213_use": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:entity": "result:file-README-md_commit-720371a4aa4b6c580006600539fef8bf8dd2db6d",
+          "prov:time": "2015-02-02T16:05:44.000Z"
+        },
+        "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_commit-175ecc603af56f4249f992f6773e6b98ca90c213_use": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:entity": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:time": "2015-02-02T16:05:44.000Z"
+        },
+        "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_use": {
+          "prov:activity": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:entity": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:time": "2015-02-01T17:34:53.000Z"
+        },
+        "result:file-README-md_commit-0ef05ba2c214ef694b429e632cc87446eb283417_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_use": {
+          "prov:activity": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:entity": "result:file-README-md_commit-0ef05ba2c214ef694b429e632cc87446eb283417",
+          "prov:time": "2015-02-01T15:05:25.000Z"
+        },
+        "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_use": {
+          "prov:activity": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:entity": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:time": "2015-02-01T08:37:31.000Z"
+        },
+        "result:file-README-md_commit-5cd7ec204a329856ab14137f90a3341622582a7d_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_use": {
+          "prov:activity": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:entity": "result:file-README-md_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:time": "2015-01-31T11:23:24.000Z"
+        },
+        "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_commit-66a9dd356f9958c89b83512a07f4964187981419_use": {
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:entity": "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:time": "2015-01-29T10:35:15.000Z"
+        },
+        "result:file-template-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-template-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-template-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_use": {
+          "prov:activity": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:entity": "result:file-template-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:time": "2015-04-23T20:35:24.000Z"
+        },
+        "result:file-template-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_commit-3699e1253080aadb865de87257758cd742bd54bd_use": {
+          "prov:activity": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:entity": "result:file-template-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:time": "2015-04-23T16:30:11.000Z"
+        },
+        "result:file-template-go_commit-40291a96ddf68d766283850ff11def5823640f7f_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_use": {
+          "prov:activity": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:entity": "result:file-template-go_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:time": "2015-02-04T13:38:28.000Z"
+        },
+        "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-template-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_commit-a673e223843b8a04285a854579b25aa99cc7370d_use": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:entity": "result:file-template-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:file-jsonenums-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-jsonenums-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_commit-d79b636dff87fe5120f5bdb71874d532f4764591_use": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:entity": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_use": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:entity": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-05-03T22:50:41.000Z"
+        },
+        "result:file-jsonenums-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_commit-7fbe89f60da342dc2870277795492f310e38b8c5_use": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:entity": "result:file-jsonenums-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:file-jsonenums-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_use": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:entity": "result:file-jsonenums-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:time": "2016-04-08T10:33:16.000Z"
+        },
+        "result:file-jsonenums-go_commit-c46b65ebad41068addae34524309ea24aad21f95_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_use": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:entity": "result:file-jsonenums-go_commit-c46b65ebad41068addae34524309ea24aad21f95",
+          "prov:time": "2015-07-15T17:29:57.000Z"
+        },
+        "result:file-jsonenums-go_commit-95e85aea50e3442ec666dadb7c3ee4396aab2b80_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_use": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:entity": "result:file-jsonenums-go_commit-95e85aea50e3442ec666dadb7c3ee4396aab2b80",
+          "prov:time": "2015-07-15T17:29:57.000Z"
+        },
+        "result:file-jsonenums-go_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-jsonenums-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-jsonenums-go_commit-003b2577f008cb6c255740b7af743e477c8b3d75_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_use": {
+          "prov:activity": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:entity": "result:file-jsonenums-go_commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:time": "2015-04-07T03:56:34.000Z"
+        },
+        "result:file-jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_use": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:entity": "result:file-jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:file-jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_commit-a77ef8d8e573450f09553e1fb382214d39121731_use": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:time": "2015-02-04T13:40:08.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_use": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:time": "2015-02-03T06:01:04.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_commit-a673e223843b8a04285a854579b25aa99cc7370d_use": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_commit-10933b856e570af2c6482962d71e516dcad12828_use": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:entity": "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_commit-a77ef8d8e573450f09553e1fb382214d39121731_use": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:time": "2015-02-04T13:40:08.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_commit-a673e223843b8a04285a854579b25aa99cc7370d_use": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:time": "2015-01-31T10:09:02.000Z"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_commit-10933b856e570af2c6482962d71e516dcad12828_use": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:entity": "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-example-shirtsize-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:entity": "result:file-example-shirtsize-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:time": "2015-01-31T11:21:55.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_commit-3da4e90d4393be281cf409bead9aa3860415a87b_use": {
+          "prov:activity": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:entity": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:time": "2015-01-31T09:21:59.000Z"
+        },
+        "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419_commit-10933b856e570af2c6482962d71e516dcad12828_use": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:entity": "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:time": "2015-01-29T16:00:50.000Z"
+        },
+        "result:file-parser-parser-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-parser-parser-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-parser-parser-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_commit-d79b636dff87fe5120f5bdb71874d532f4764591_use": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:entity": "result:file-parser-parser-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_commit-7fbe89f60da342dc2870277795492f310e38b8c5_use": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:entity": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:file-parser-parser-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_use": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:entity": "result:file-parser-parser-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:time": "2016-04-08T10:41:22.000Z"
+        },
+        "result:file-parser-parser-go_commit-5bfdb73f884302bca3b3246048d27992ba1c08f3_commit-bafb4908c30562d21df38501d0dcd40988182a1c_use": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:entity": "result:file-parser-parser-go_commit-5bfdb73f884302bca3b3246048d27992ba1c08f3",
+          "prov:time": "2016-04-08T10:24:33.000Z"
+        },
+        "result:file-parser-parser-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_commit-e513687f7202191c6330c215ce804e8e7dad3c29_use": {
+          "prov:activity": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:entity": "result:file-parser-parser-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:time": "2016-04-08T10:24:33.000Z"
+        },
+        "result:file-parser-parser-go_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-parser-parser-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-server-static-home-html_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-static-home-html_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-static-home-html_commit-07f271932bee70dfc88de87e1858cfca736cf474_commit-081abb77210ff00924a202ebf27764f6e0966cf6_use": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:entity": "result:file-server-static-home-html_commit-07f271932bee70dfc88de87e1858cfca736cf474",
+          "prov:time": "2015-02-04T13:44:42.000Z"
+        },
+        "result:file-server-server-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-server-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_commit-d79b636dff87fe5120f5bdb71874d532f4764591_use": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:entity": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:time": "2016-05-11T16:02:21.000Z"
+        },
+        "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_use": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:entity": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:time": "2016-05-03T22:50:41.000Z"
+        },
+        "result:file-server-server-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_commit-7fbe89f60da342dc2870277795492f310e38b8c5_use": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:entity": "result:file-server-server-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:time": "2016-04-21T13:13:48.000Z"
+        },
+        "result:file-server-server-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_use": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:entity": "result:file-server-server-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:time": "2016-04-08T10:33:16.000Z"
+        },
+        "result:file-server-server-go_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:entity": "result:file-server-server-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:time": "2015-04-23T16:50:48.000Z"
+        },
+        "result:file-server-main-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-main-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file-server-main-go_commit-07f271932bee70dfc88de87e1858cfca736cf474_commit-081abb77210ff00924a202ebf27764f6e0966cf6_use": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:entity": "result:file-server-main-go_commit-07f271932bee70dfc88de87e1858cfca736cf474",
+          "prov:time": "2015-02-04T13:44:42.000Z"
+        },
+        "result:file-server-app-yaml_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:entity": "result:file-server-app-yaml_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:time": "2017-05-04T19:18:34.000Z"
+        },
+        "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_commit-2016be4569b422c8027a085395aad8ac5a72b434_use": {
+          "prov:activity": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:entity": "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:time": "2017-05-04T18:55:46.000Z"
+        }
+      },
+      "wasDerivedFrom": {
+        "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_3699e1253080aadb865de87257758cd742bd54bd_der": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:generatedEntity": "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:usedEntity": "result:file-README-md_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:generation": "result:file-README-md_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen",
+          "prov:usage": "result:file-README-md_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use"
+        },
+        "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75_c80e0662c23bffdb3fe5e2162e893e44c35b21e3_der": {
+          "prov:activity": "result:commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:generatedEntity": "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:usedEntity": "result:file-README-md_commit-c80e0662c23bffdb3fe5e2162e893e44c35b21e3",
+          "prov:generation": "result:file-README-md_commit-003b2577f008cb6c255740b7af743e477c8b3d75_gen",
+          "prov:usage": "result:file-README-md_commit-c80e0662c23bffdb3fe5e2162e893e44c35b21e3_commit-003b2577f008cb6c255740b7af743e477c8b3d75_use"
+        },
+        "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_720371a4aa4b6c580006600539fef8bf8dd2db6d_der": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:generatedEntity": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:usedEntity": "result:file-README-md_commit-720371a4aa4b6c580006600539fef8bf8dd2db6d",
+          "prov:generation": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_gen",
+          "prov:usage": "result:file-README-md_commit-720371a4aa4b6c580006600539fef8bf8dd2db6d_commit-175ecc603af56f4249f992f6773e6b98ca90c213_use"
+        },
+        "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_718a04d0a64517ed7704797a1a20afcb22b717e6_der": {
+          "prov:activity": "result:commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:generatedEntity": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:usedEntity": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:generation": "result:file-README-md_commit-175ecc603af56f4249f992f6773e6b98ca90c213_gen",
+          "prov:usage": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_commit-175ecc603af56f4249f992f6773e6b98ca90c213_use"
+        },
+        "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_ae9812cb50377fd98981ea6c03a86dfae14e899b_der": {
+          "prov:activity": "result:commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:generatedEntity": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6",
+          "prov:usedEntity": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:generation": "result:file-README-md_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_gen",
+          "prov:usage": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_commit-718a04d0a64517ed7704797a1a20afcb22b717e6_use"
+        },
+        "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_0ef05ba2c214ef694b429e632cc87446eb283417_der": {
+          "prov:activity": "result:commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:generatedEntity": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b",
+          "prov:usedEntity": "result:file-README-md_commit-0ef05ba2c214ef694b429e632cc87446eb283417",
+          "prov:generation": "result:file-README-md_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_gen",
+          "prov:usage": "result:file-README-md_commit-0ef05ba2c214ef694b429e632cc87446eb283417_commit-ae9812cb50377fd98981ea6c03a86dfae14e899b_use"
+        },
+        "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_90659514af30288ba5e542f7c5c2b6ccf3143655_der": {
+          "prov:activity": "result:commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:generatedEntity": "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d",
+          "prov:usedEntity": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:generation": "result:file-README-md_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_gen",
+          "prov:usage": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_commit-63815420d04303751eb1d4c040fdc9a8c282a68d_use"
+        },
+        "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_5cd7ec204a329856ab14137f90a3341622582a7d_der": {
+          "prov:activity": "result:commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:generatedEntity": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655",
+          "prov:usedEntity": "result:file-README-md_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:generation": "result:file-README-md_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_gen",
+          "prov:usage": "result:file-README-md_commit-5cd7ec204a329856ab14137f90a3341622582a7d_commit-90659514af30288ba5e542f7c5c2b6ccf3143655_use"
+        },
+        "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419_fb5644d04154ec5d96e5b5063142476fadc31ad6_der": {
+          "prov:activity": "result:commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:generatedEntity": "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:usedEntity": "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6",
+          "prov:generation": "result:file-README-md_commit-66a9dd356f9958c89b83512a07f4964187981419_gen",
+          "prov:usage": "result:file-README-md_commit-fb5644d04154ec5d96e5b5063142476fadc31ad6_commit-66a9dd356f9958c89b83512a07f4964187981419_use"
+        },
+        "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-template-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-template-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-template-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_c55a706513b8d9c96486d6db7f634a8163348cc3_der": {
+          "prov:activity": "result:commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:generatedEntity": "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f",
+          "prov:usedEntity": "result:file-template-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:generation": "result:file-template-go_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_gen",
+          "prov:usage": "result:file-template-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_commit-f6a82465434dfa82892ed25d825d3a5ab57aaa2f_use"
+        },
+        "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd_a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_der": {
+          "prov:activity": "result:commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:generatedEntity": "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:usedEntity": "result:file-template-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:generation": "result:file-template-go_commit-3699e1253080aadb865de87257758cd742bd54bd_gen",
+          "prov:usage": "result:file-template-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_commit-3699e1253080aadb865de87257758cd742bd54bd_use"
+        },
+        "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_40291a96ddf68d766283850ff11def5823640f7f_der": {
+          "prov:activity": "result:commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:generatedEntity": "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:usedEntity": "result:file-template-go_commit-40291a96ddf68d766283850ff11def5823640f7f",
+          "prov:generation": "result:file-template-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_gen",
+          "prov:usage": "result:file-template-go_commit-40291a96ddf68d766283850ff11def5823640f7f_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_use"
+        },
+        "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_a673e223843b8a04285a854579b25aa99cc7370d_der": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:generatedEntity": "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:usedEntity": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generation": "result:file-template-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen",
+          "prov:usage": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use"
+        },
+        "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_3da4e90d4393be281cf409bead9aa3860415a87b_der": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generatedEntity": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:usedEntity": "result:file-template-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:generation": "result:file-template-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_gen",
+          "prov:usage": "result:file-template-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_commit-a673e223843b8a04285a854579b25aa99cc7370d_use"
+        },
+        "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-jsonenums-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_b89a8c9df8b6b1172b7d92be099a81b91f0076e0_der": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:generation": "result:file-jsonenums-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_commit-d79b636dff87fe5120f5bdb71874d532f4764591_use"
+        },
+        "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_7fbe89f60da342dc2870277795492f310e38b8c5_der": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:generation": "result:file-jsonenums-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_use"
+        },
+        "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_0c6ac79cc6108a657873380b0a4c903fe811113a_der": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:generation": "result:file-jsonenums-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_commit-7fbe89f60da342dc2870277795492f310e38b8c5_use"
+        },
+        "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_bafb4908c30562d21df38501d0dcd40988182a1c_der": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:generation": "result:file-jsonenums-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_use"
+        },
+        "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_c46b65ebad41068addae34524309ea24aad21f95_der": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-c46b65ebad41068addae34524309ea24aad21f95",
+          "prov:generation": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-c46b65ebad41068addae34524309ea24aad21f95_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_use"
+        },
+        "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_95e85aea50e3442ec666dadb7c3ee4396aab2b80_der": {
+          "prov:activity": "result:commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-95e85aea50e3442ec666dadb7c3ee4396aab2b80",
+          "prov:generation": "result:file-jsonenums-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-95e85aea50e3442ec666dadb7c3ee4396aab2b80_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_use"
+        },
+        "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_3699e1253080aadb865de87257758cd742bd54bd_der": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:generation": "result:file-jsonenums-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use"
+        },
+        "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_003b2577f008cb6c255740b7af743e477c8b3d75_der": {
+          "prov:activity": "result:commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-003b2577f008cb6c255740b7af743e477c8b3d75",
+          "prov:generation": "result:file-jsonenums-go_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-003b2577f008cb6c255740b7af743e477c8b3d75_commit-a9a20fa77ce94a8e80990c93cb2c7eeac1f41717_use"
+        },
+        "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_175ecc603af56f4249f992f6773e6b98ca90c213_der": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:generation": "result:file-jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_use"
+        },
+        "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_a673e223843b8a04285a854579b25aa99cc7370d_der": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:generatedEntity": "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:usedEntity": "result:file-jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generation": "result:file-jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen",
+          "prov:usage": "result:file-jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_dfe6af903e8ad07a358e204c7d06ccd5e1eef352_der": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:generatedEntity": "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:usedEntity": "result:file-example-weekday_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:generation": "result:file-example-weekday_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_gen",
+          "prov:usage": "result:file-example-weekday_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_commit-a77ef8d8e573450f09553e1fb382214d39121731_use"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_175ecc603af56f4249f992f6773e6b98ca90c213_der": {
+          "prov:activity": "result:commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:generatedEntity": "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7",
+          "prov:usedEntity": "result:file-example-weekday_jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213",
+          "prov:generation": "result:file-example-weekday_jsonenums-go_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_gen",
+          "prov:usage": "result:file-example-weekday_jsonenums-go_commit-175ecc603af56f4249f992f6773e6b98ca90c213_commit-62c6805a74d0a1ab155117e9e996ad00118c5cf7_use"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_a673e223843b8a04285a854579b25aa99cc7370d_der": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:generatedEntity": "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:usedEntity": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generation": "result:file-example-weekday_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen",
+          "prov:usage": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_3da4e90d4393be281cf409bead9aa3860415a87b_der": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generatedEntity": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:usedEntity": "result:file-example-weekday_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:generation": "result:file-example-weekday_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_gen",
+          "prov:usage": "result:file-example-weekday_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_commit-a673e223843b8a04285a854579b25aa99cc7370d_use"
+        },
+        "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_66a9dd356f9958c89b83512a07f4964187981419_der": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:generatedEntity": "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:usedEntity": "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:generation": "result:file-example-weekday_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_gen",
+          "prov:usage": "result:file-example-weekday_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_commit-10933b856e570af2c6482962d71e516dcad12828_use"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_dfe6af903e8ad07a358e204c7d06ccd5e1eef352_der": {
+          "prov:activity": "result:commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:generatedEntity": "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731",
+          "prov:usedEntity": "result:file-example-shirtsize_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352",
+          "prov:generation": "result:file-example-shirtsize_jsonenums-go_commit-a77ef8d8e573450f09553e1fb382214d39121731_gen",
+          "prov:usage": "result:file-example-shirtsize_jsonenums-go_commit-dfe6af903e8ad07a358e204c7d06ccd5e1eef352_commit-a77ef8d8e573450f09553e1fb382214d39121731_use"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_a673e223843b8a04285a854579b25aa99cc7370d_der": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:generatedEntity": "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:usedEntity": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generation": "result:file-example-shirtsize_jsonenums-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen",
+          "prov:usage": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_3da4e90d4393be281cf409bead9aa3860415a87b_der": {
+          "prov:activity": "result:commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generatedEntity": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:usedEntity": "result:file-example-shirtsize_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:generation": "result:file-example-shirtsize_jsonenums-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_gen",
+          "prov:usage": "result:file-example-shirtsize_jsonenums-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_commit-a673e223843b8a04285a854579b25aa99cc7370d_use"
+        },
+        "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_66a9dd356f9958c89b83512a07f4964187981419_der": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:generatedEntity": "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:usedEntity": "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:generation": "result:file-example-shirtsize_jsonenums-go_commit-10933b856e570af2c6482962d71e516dcad12828_gen",
+          "prov:usage": "result:file-example-shirtsize_jsonenums-go_commit-66a9dd356f9958c89b83512a07f4964187981419_commit-10933b856e570af2c6482962d71e516dcad12828_use"
+        },
+        "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-example-shirtsize-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-example-shirtsize-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-example-shirtsize-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_a673e223843b8a04285a854579b25aa99cc7370d_der": {
+          "prov:activity": "result:commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:generatedEntity": "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d",
+          "prov:usedEntity": "result:file-example-shirtsize-go_commit-a673e223843b8a04285a854579b25aa99cc7370d",
+          "prov:generation": "result:file-example-shirtsize-go_commit-5cd7ec204a329856ab14137f90a3341622582a7d_gen",
+          "prov:usage": "result:file-example-shirtsize-go_commit-a673e223843b8a04285a854579b25aa99cc7370d_commit-5cd7ec204a329856ab14137f90a3341622582a7d_use"
+        },
+        "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_10933b856e570af2c6482962d71e516dcad12828_der": {
+          "prov:activity": "result:commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:generatedEntity": "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b",
+          "prov:usedEntity": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:generation": "result:file-example-shirtsize-go_commit-3da4e90d4393be281cf409bead9aa3860415a87b_gen",
+          "prov:usage": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_commit-3da4e90d4393be281cf409bead9aa3860415a87b_use"
+        },
+        "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_66a9dd356f9958c89b83512a07f4964187981419_der": {
+          "prov:activity": "result:commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:generatedEntity": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828",
+          "prov:usedEntity": "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419",
+          "prov:generation": "result:file-example-shirtsize-go_commit-10933b856e570af2c6482962d71e516dcad12828_gen",
+          "prov:usage": "result:file-example-shirtsize-go_commit-66a9dd356f9958c89b83512a07f4964187981419_commit-10933b856e570af2c6482962d71e516dcad12828_use"
+        },
+        "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-parser-parser-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_b89a8c9df8b6b1172b7d92be099a81b91f0076e0_der": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:generation": "result:file-parser-parser-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_commit-d79b636dff87fe5120f5bdb71874d532f4764591_use"
+        },
+        "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_0c6ac79cc6108a657873380b0a4c903fe811113a_der": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:generation": "result:file-parser-parser-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_commit-7fbe89f60da342dc2870277795492f310e38b8c5_use"
+        },
+        "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_der": {
+          "prov:activity": "result:commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:generation": "result:file-parser-parser-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_use"
+        },
+        "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_5bfdb73f884302bca3b3246048d27992ba1c08f3_der": {
+          "prov:activity": "result:commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-5bfdb73f884302bca3b3246048d27992ba1c08f3",
+          "prov:generation": "result:file-parser-parser-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-5bfdb73f884302bca3b3246048d27992ba1c08f3_commit-bafb4908c30562d21df38501d0dcd40988182a1c_use"
+        },
+        "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29_36bac1a5f68bfb45d70d73452985c37f1184b39e_der": {
+          "prov:activity": "result:commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e",
+          "prov:generation": "result:file-parser-parser-go_commit-e513687f7202191c6330c215ce804e8e7dad3c29_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-36bac1a5f68bfb45d70d73452985c37f1184b39e_commit-e513687f7202191c6330c215ce804e8e7dad3c29_use"
+        },
+        "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_3699e1253080aadb865de87257758cd742bd54bd_der": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:generatedEntity": "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:usedEntity": "result:file-parser-parser-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:generation": "result:file-parser-parser-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen",
+          "prov:usage": "result:file-parser-parser-go_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use"
+        },
+        "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-server-static-home-html_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-server-static-home-html_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-server-static-home-html_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6_07f271932bee70dfc88de87e1858cfca736cf474_der": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:generatedEntity": "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:usedEntity": "result:file-server-static-home-html_commit-07f271932bee70dfc88de87e1858cfca736cf474",
+          "prov:generation": "result:file-server-static-home-html_commit-081abb77210ff00924a202ebf27764f6e0966cf6_gen",
+          "prov:usage": "result:file-server-static-home-html_commit-07f271932bee70dfc88de87e1858cfca736cf474_commit-081abb77210ff00924a202ebf27764f6e0966cf6_use"
+        },
+        "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-server-server-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-server-server-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-server-server-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_b89a8c9df8b6b1172b7d92be099a81b91f0076e0_der": {
+          "prov:activity": "result:commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:generatedEntity": "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591",
+          "prov:usedEntity": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:generation": "result:file-server-server-go_commit-d79b636dff87fe5120f5bdb71874d532f4764591_gen",
+          "prov:usage": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_commit-d79b636dff87fe5120f5bdb71874d532f4764591_use"
+        },
+        "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_7fbe89f60da342dc2870277795492f310e38b8c5_der": {
+          "prov:activity": "result:commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:generatedEntity": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0",
+          "prov:usedEntity": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:generation": "result:file-server-server-go_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_gen",
+          "prov:usage": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_commit-b89a8c9df8b6b1172b7d92be099a81b91f0076e0_use"
+        },
+        "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_0c6ac79cc6108a657873380b0a4c903fe811113a_der": {
+          "prov:activity": "result:commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:generatedEntity": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5",
+          "prov:usedEntity": "result:file-server-server-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a",
+          "prov:generation": "result:file-server-server-go_commit-7fbe89f60da342dc2870277795492f310e38b8c5_gen",
+          "prov:usage": "result:file-server-server-go_commit-0c6ac79cc6108a657873380b0a4c903fe811113a_commit-7fbe89f60da342dc2870277795492f310e38b8c5_use"
+        },
+        "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_bafb4908c30562d21df38501d0dcd40988182a1c_der": {
+          "prov:activity": "result:commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:generatedEntity": "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355",
+          "prov:usedEntity": "result:file-server-server-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c",
+          "prov:generation": "result:file-server-server-go_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_gen",
+          "prov:usage": "result:file-server-server-go_commit-bafb4908c30562d21df38501d0dcd40988182a1c_commit-fb3be6d28ae94f9bf80f12904d11c18b5bcb6355_use"
+        },
+        "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_3699e1253080aadb865de87257758cd742bd54bd_der": {
+          "prov:activity": "result:commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:generatedEntity": "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3",
+          "prov:usedEntity": "result:file-server-server-go_commit-3699e1253080aadb865de87257758cd742bd54bd",
+          "prov:generation": "result:file-server-server-go_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_gen",
+          "prov:usage": "result:file-server-server-go_commit-3699e1253080aadb865de87257758cd742bd54bd_commit-c55a706513b8d9c96486d6db7f634a8163348cc3_use"
+        },
+        "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-server-main-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-server-main-go_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-server-main-go_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6_07f271932bee70dfc88de87e1858cfca736cf474_der": {
+          "prov:activity": "result:commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:generatedEntity": "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6",
+          "prov:usedEntity": "result:file-server-main-go_commit-07f271932bee70dfc88de87e1858cfca736cf474",
+          "prov:generation": "result:file-server-main-go_commit-081abb77210ff00924a202ebf27764f6e0966cf6_gen",
+          "prov:usage": "result:file-server-main-go_commit-07f271932bee70dfc88de87e1858cfca736cf474_commit-081abb77210ff00924a202ebf27764f6e0966cf6_use"
+        },
+        "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_68db04e922ff8d35d4dd93b50a54617ebea4667d_der": {
+          "prov:activity": "result:commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:generatedEntity": "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6",
+          "prov:usedEntity": "result:file-server-app-yaml_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d",
+          "prov:generation": "result:file-server-app-yaml_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_gen",
+          "prov:usage": "result:file-server-app-yaml_commit-68db04e922ff8d35d4dd93b50a54617ebea4667d_commit-917c72fddbf8abb1b0ba56ddbc7a593757b98ec6_use"
+        },
+        "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434_1508da3e54d30da6232cd6c11f5d37ad270c9c8a_der": {
+          "prov:activity": "result:commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:generatedEntity": "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434",
+          "prov:usedEntity": "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a",
+          "prov:generation": "result:file--travis-yml_commit-2016be4569b422c8027a085395aad8ac5a72b434_gen",
+          "prov:usage": "result:file--travis-yml_commit-1508da3e54d30da6232cd6c11f5d37ad270c9c8a_commit-2016be4569b422c8027a085395aad8ac5a72b434_use"
+        }
+      },
+      "wasInvalidatedBy": {}
+    }
+  }
+}
